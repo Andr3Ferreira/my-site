@@ -1,0 +1,13 @@
+.navbar{
+    text-align: center;
+}
+
+.navbar-item{
+    text-align: center;
+    border: 1px 1px 1px 1px;
+    margin: 10px 10px 10px 10px;
+}
+
+.contact-box{
+    text-align: center;
+}
